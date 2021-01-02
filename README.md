@@ -2,6 +2,9 @@
 
 This is my poem!
 
-Learn about
+
+Learning about
+
 Repositories.
+
 Ahh, to learn.
