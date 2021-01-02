@@ -1,2 +1,10 @@
 # hello-world
-Hello repository
+
+## This is my poem!
+
+
+Learning about
+
+Repositories.
+
+Ahh, to learn.
